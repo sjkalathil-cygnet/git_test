@@ -12,6 +12,8 @@ var win1 = Titanium.UI.createWindow({
     title:'Tab 1',
     backgroundColor:'#fff'
 });
+
+//New tab
 var tab1 = Titanium.UI.createTab({  
     icon:'KS_nav_views.png',
     title:'Tab 1',
